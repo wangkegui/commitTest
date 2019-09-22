@@ -3,7 +3,9 @@ class Home extends React.Component {
     render(){
         return (
             <div>
-                hello, Home
+                <header>this is header</header>
+                <content>this is body</content>
+                <footer>this is footer</footer>
             </div>
         )
     }
