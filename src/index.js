@@ -3,7 +3,8 @@ class Home extends React.Component {
     render(){
         return (
             <div>
-                hello, Home
+                hello, Home,
+                this is develop modify
             </div>
         )
     }
